@@ -1,0 +1,134 @@
+version: '3.9'
+
+services:
+  graph-service:
+    build: ./graph-service
+    container_name: graph-service
+    expose:
+      - "${GRAPH_SERVICE_PORT}"
+    depends_on:
+      - graph-db
+      - rabbitmq-service
+    volumes:
+      - ./graph-service:/graph-service/
+
+  graph-db:
+    image: neo4j:5
+    container_name: graph-db
+    restart: always
+    ports:
+      - "${NEO4J_WEB_UI_PORT}:7474"
+      - "${NEO4J_MAIN_PORT}:7687"
+    environment:
+      NEO4J_AUTH: ${NEO4J_LOGIN}/${NEO4J_PASSWORD}
+    volumes:
+      - graph-db-data:/var/lib/graph-db/data
+
+  article-service:
+    build: ./article-service
+    container_name: article-service
+    expose:
+      - "${ARTICLE_SERVICE_PORT}"
+    depends_on:
+      - article-db
+      - rabbitmq-service
+    volumes:
+      - ./article-service:/article-service/
+
+  article-db:
+    image: postgres:17
+    container_name: article-db
+    restart: always
+    environment:
+      POSTGRES_USER: ${ARTICLE_DB_USER}
+      POSTGRES_PASSWORD: ${ARTICLE_DB_PASSWORD}
+      POSTGRES_DB: ${ARTICLE_DB}
+    ports:
+      - "${ARTICLE_DB_PORT}:5432"
+    volumes:
+      - article-db-data:/var/lib/article-db/data
+
+  discussion-service:
+    build: ./discussion-service
+    container_name: discussion-service
+    expose:
+      - "${DISCUSSION_SERVICE_PORT}"
+    depends_on:
+      - discussion-db
+      - rabbitmq-service
+    volumes:
+      - ./discussion-service:/discussion-service/
+
+  discussion-db:
+    image: postgres:17
+    container_name: discussion-db
+    restart: always
+    environment:
+      POSTGRES_USER: ${DISCUSSION_DB_USER}
+      POSTGRES_PASSWORD: ${DISCUSSION_DB_PASSWORD}
+      POSTGRES_DB: ${DISCUSSION_DB}
+    ports:
+      - "${DISCUSSION_DB_PORT}:5432"
+    volumes:
+      - discussion-db-data:/var/lib/discussion-db/data
+
+  auth-service:
+    build: ./auth-service
+    container_name: auth-service
+    expose:
+      - "${AUTH_SERVICE_PORT}"
+    depends_on:
+      - auth-db
+      - rabbitmq-service
+    volumes:
+      - ./auth-service:/auth-service/
+
+  auth-db:
+    image: postgres:17
+    container_name: auth-db
+    restart: always
+    environment:
+      POSTGRES_USER: ${AUTH_DB_USER}
+      POSTGRES_PASSWORD: ${AUTH_DB_PASSWORD}
+      POSTGRES_DB: ${AUTH_DB}
+    ports:
+      - "${AUTH_DB_PORT}:5432"
+    volumes:
+      - auth-db-data:/var/lib/auth-db/data
+
+  rabbitmq-service:
+    image: rabbitmq:4-management
+    container_name: rabbitmq-service
+    ports:
+      - "${RABBITMQ_MAIN_PORT}:5672"
+      - "${RABBITMQ_CONSOLE_PORT}:15672"
+    environment:
+      RABBITMQ_DEFAULT_USER: ${RABBITMQ_DEFAULT_USER}
+      RABBITMQ_DEFAULT_PASS: ${RABBITMQ_DEFAULT_PASS}
+
+  gateway-service:
+    build: ./gateway-service
+    container_name: gateway-service
+    ports:
+      - "${GATEWAY_SERVICE_PORT}:8000"
+    depends_on:
+      - graph-service
+      - article-service
+      - auth-service
+      - discussion-service
+      - rabbitmq-service
+
+  react:
+    build: ./frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - gateway-service
+    volumes:
+      - ./frontend:/frontend/
+
+volumes:
+  graph-db-data:
+  article-db-data:
+  discussion-db-data:
+  auth-db-data:

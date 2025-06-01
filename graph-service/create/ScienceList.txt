@@ -1,0 +1,525 @@
+Agricultural Science: Agricultural Economics
+Agricultural Science: Agricultural Philosophy
+Agricultural Science: Agricultural Plant Science
+Agricultural Science: Agronomy
+Agricultural Science: Agrophysics
+Agricultural Science: Animal Science
+Agricultural Science: Aquaculture
+Agricultural Science: Environmental Science
+Agricultural Science: Food Science
+Agricultural Science: Forestry
+Agricultural Science: Horticulture
+Agricultural Science: Irrigation and Water Management
+Agricultural Science: Plant Fertilization, Animal and Human Nutrition
+Agricultural Science: Plant Protection and Animal Health
+Agricultural Science: Soil Science
+Agricultural Science: Theoretical Production Ecology
+Agricultural Science: Waste Management
+Agricultural Science: Water Science
+Anthropology: Anthropological Linguistics
+Anthropology: Archaeology
+Anthropology: Biological Anthropology
+Anthropology: Cultural Anthropology
+Anthropology: Historical Anthropology
+Anthropology: Medical Anthropology
+Biology: Aerobiology
+Biology: Anatomy
+Biology: Animal Communications
+Biology: Bioinformatics
+Biology: Biostatistics
+Biology: Biotechnology
+Biology: Botany
+Biology: Cancer Research
+Biology: Canopy Research
+Biology: Cell Biology
+Biology: Chronobiology
+Biology: Cryobiology
+Biology: Developmental Biology
+Biology: Ecology
+Biology: Endocrinology
+Biology: Entomology
+Biology: Ethnobotany
+Biology: Evolutionary Biology
+Biology: Genetics
+Biology: Histology
+Biology: Human Biology
+Biology: Immunology
+Biology: Limnology
+Biology: Linnaean Taxonomy
+Biology: Marine Biology
+Biology: Microbiology
+Biology: Molecular Biology
+Biology: Mycology
+Biology: Neuroscience
+Biology: Paleobiology
+Biology: Parasitology
+Biology: Phycology
+Biology: Physiology
+Biology: Structural Biology
+Biology: Systematics (Taxonomy)
+Biology: Systems Biology
+Biology: Virology
+Biology: Xenobiology
+Biology: Zoology
+Chemistry: Analytical Chemistry
+Chemistry: Astrochemistry
+Chemistry: Atmospheric Chemistry
+Chemistry: Biochemistry
+Chemistry: Catalysis
+Chemistry: Chemical Biology
+Chemistry: Chemical Kinetics
+Chemistry: Chemical Thermodynamics
+Chemistry: Chemo-informatics
+Chemistry: Electrochemistry
+Chemistry: Environmental Chemistry
+Chemistry: Flow Chemistry
+Chemistry: Green Chemistry
+Chemistry: Immunochemistry
+Chemistry: Inorganic Chemistry
+Chemistry: Materials Chemistry
+Chemistry: Mathematical Chemistry
+Chemistry: Medicinal Chemistry
+Chemistry: Nanobiochemistry
+Chemistry: Nanotechnology
+Chemistry: Nuclear Chemistry
+Chemistry: Oenology
+Chemistry: Organic Chemistry
+Chemistry: Organometallic Chemistry
+Chemistry: Petrochemistry
+Chemistry: Pharmacology
+Chemistry: Photochemistry
+Chemistry: Physical Chemistry
+Chemistry: Phytochemistry
+Chemistry: Polymer Chemistry
+Chemistry: Radiochemistry
+Chemistry: Solid-state Chemistry
+Chemistry: Sonochemistry
+Chemistry: Spectroscopy
+Chemistry: Supramolecular Chemistry
+Chemistry: Surface Chemistry
+Chemistry: Theoretical Chemistry
+Chemistry: Thermochemistry
+Computer Science: Algorithms
+Computer Science: Artificial Intelligence
+Computer Science: Artificial Neural Network
+Computer Science: Computer and Society
+Computer Science: Computer Architecture
+Computer Science: Computer Communications (Networks)
+Computer Science: Computer Graphics
+Computer Science: Computer Security and Reliability
+Computer Science: Computing in Mathematics, Natural Science, Engineering and Medicine
+Computer Science: Computing in Social science, Arts and Humanities
+Computer Science: Data Mining
+Computer Science: Data Structures
+Computer Science: Databases
+Computer Science: Distributed Computing
+Computer Science: Human-computer Interaction
+Computer Science: Information Science
+Computer Science: Information Systems (Business Informatics)
+Computer Science: Operating Systems
+Computer Science: Parallel Computing
+Computer Science: Programming Languages
+Computer Science: Quantum Computing
+Computer Science: Software Engineering
+Computer Science: Theory of Computation
+Design: Communication Design
+Design: Fashion Design
+Design: Graphic Design
+Design: Industrial Design
+Economics: Accounting Scholarship
+Economics: Behavioural Economics
+Economics: Bioeconomics
+Economics: Business Administration
+Economics: Business Economics
+Economics: Business Ethics
+Economics: Collective Bargaining
+Economics: Computational Economics
+Economics: Consumer Economics
+Economics: Development Economics
+Economics: Econometrics
+Economics: Economic Geography
+Economics: Economic History
+Economics: Economic Sociology
+Economics: Energy Economics
+Economics: Entrepreneurial Economics
+Economics: Environmental Economics
+Economics: Evolutionary Economics
+Economics: Experimental Economics
+Economics: Feminist Economics
+Economics: Financial Economics
+Economics: Game Theory
+Economics: Green Economics
+Economics: Health Economics
+Economics: Human Development Theory
+Economics: Human Resources
+Economics: Industrial Organization
+Economics: Information Systems
+Economics: Institutional Economics
+Economics: International and Comparative Labor
+Economics: International Economics
+Economics: Islamic Economics
+Economics: Labor Economics
+Economics: Labor History
+Economics: Labor Statistics
+Economics: Law and Economics
+Economics: Macroeconomics
+Economics: Managerial Economics
+Economics: Manufacturing
+Economics: Marketing
+Economics: Mathematical Economics
+Economics: Microeconomics
+Economics: Monetary Economics
+Economics: Neuroeconomics
+Economics: Organizational Studies
+Economics: Platform Economics
+Economics: Port Management
+Economics: Public Economics
+Economics: Public Finance
+Economics: Real Estate Economics
+Economics: Resource Economics
+Economics: Risk Management and Insurance
+Economics: Socialist Economics
+Economics: Socioeconomics
+Economics: Supply chain management
+Economics: Transport Economics
+Economics: Welfare Economics
+Education: Adult Education
+Education: Comparative Education
+Education: Curriculum Theory
+Education: Didactics
+Education: Educational Assessment
+Education: Educational Leadership
+Education: Educational Management
+Education: Educational Policy
+Education: Educational Technology
+Education: Educational Theory
+Education: Further (Post-compulsory) Education
+Education: Higher Education
+Education: International Education
+Education: Language Education
+Education: Mathematics Education
+Education: Peace Education
+Education: Pedagogic Theory
+Education: Pre-school Education
+Education: Primary Education
+Education: Science Education
+Education: Secondary Education
+Education: Special Education
+Education: Teacher Education
+Education: Teaching Methods
+Education: Vocational Education
+Engineering: Acoustic Engineering
+Engineering: Aeronautical Engineering
+Engineering: Aerospace Engineering
+Engineering: Agricultural Engineering
+Engineering: Architectural Engineering
+Engineering: Automotive Engineering
+Engineering: Automotive Systems Engineering
+Engineering: Bioengineering
+Engineering: Biomedical Engineering
+Engineering: Biosystems Engineering
+Engineering: Chemical Engineering
+Engineering: Civil Engineering
+Engineering: Combat Engineering
+Engineering: Communication Engineering
+Engineering: Computer Engineering
+Engineering: Control Systems Engineering
+Engineering: Ecological Engineering
+Engineering: Electrical Engineering
+Engineering: Electronic Engineering
+Engineering: Engineering Education
+Engineering: Engineering Physics
+Engineering: Environmental Engineering
+Engineering: Fire Safety Engineering
+Engineering: Industrial Engineering
+Engineering: Instrumentation Engineering
+Engineering: Manufacturing Engineering
+Engineering: Materials Engineering
+Engineering: Mechanical Engineering
+Engineering: Mining Engineering
+Engineering: Naval Engineering
+Engineering: Nuclear Engineering
+Engineering: Ocean Engineering
+Engineering: Optical Engineering
+Engineering: Petroleum Engineering
+Engineering: Quality Assurance Engineering
+Engineering: Railway Engineering
+Engineering: Safety Engineering
+Engineering: Structural Engineering
+Engineering: Telecommunications Engineering
+Engineering: Transportation Engineering
+Entertainment and Arts: Arts Administration
+Entertainment and Arts: Performing Arts
+Entertainment and Arts: Visual Arts
+Geoscience: Biogeography
+Geoscience: Cartography
+Geoscience: Climatology
+Geoscience: Gaia Hypothesis
+Geoscience: Geochemistry
+Geoscience: Geodesy and Surveying
+Geoscience: Geography
+Geoscience: Geoinformatics (GIS)
+Geoscience: Geology
+Geoscience: Geomicrobiology
+Geoscience: Geomorphology
+Geoscience: Geostatistics
+Geoscience: Hydrogeology
+Geoscience: Hydrology
+Geoscience: Meteorology
+Geoscience: Mineralogy
+Geoscience: Oceanography
+Geoscience: Paleoclimatology
+Geoscience: Paleontology
+Geoscience: Petrology
+Geoscience: Remote Sensing
+Geoscience: Volcanology
+History: Cultural History
+History: History of Art
+History: History of Geography
+History: History of History
+History: History of Mathematics
+History: History of Philosophy
+History: History of Religion
+History: History of Science
+History: Musicology
+Law: Civil Law
+Law: Criminal Law
+Law: Legal Fundaments
+Law: Public Law
+Linguistics: Composition Studies
+Linguistics: Computational Linguistics
+Linguistics: Discourse Analysis
+Linguistics: Historical Linguistics
+Linguistics: History of Linguistics
+Linguistics: Interlinguistics
+Linguistics: Linguistic Typology
+Linguistics: Morphology
+Linguistics: Neurolinguistics
+Linguistics: Philology
+Linguistics: Phonetics
+Linguistics: Phonology
+Linguistics: Pragmatics
+Linguistics: Psycholinguistics
+Linguistics: Rhetoric
+Linguistics: Semantics
+Linguistics: Semiotics
+Linguistics: Sociolinguistics
+Linguistics: Syntax
+Literature: Classical Philology
+Literature: English Literature
+Literature: Literary Theory
+Literature: World Literatures
+Mathematics: Algebra
+Mathematics: Analysis
+Mathematics: Applied Mathematics
+Mathematics: Geometry and Topology
+Mathematics: Logic and Foundations of Mathematics
+Mathematics: Number Theory
+Mathematics: Probability Theory
+Mathematics: Statistics
+Medicine: Addiction Medicine
+Medicine: Allergology
+Medicine: Allied Health Science
+Medicine: Anaesthetics
+Medicine: Andrology
+Medicine: Bariatric Surgery
+Medicine: Cardiology
+Medicine: Cardiothoracic Surgery
+Medicine: Clinical Chemistry
+Medicine: Clinical Immunology
+Medicine: Clinical Pharmacology
+Medicine: Clinical Trials
+Medicine: Counseling Psychology
+Medicine: Dental Hygiene and Epidemiology
+Medicine: Dental Surgery
+Medicine: Dentistry
+Medicine: Dermatology
+Medicine: Diabetology
+Medicine: Disaster Medicine
+Medicine: Emergency Medical Care
+Medicine: Emergency Medicine
+Medicine: Emergency Toxicology
+Medicine: Epidemiology
+Medicine: Forensic Science
+Medicine: Gastroenterology
+Medicine: General Practice
+Medicine: Genetic Epidemiology
+Medicine: Geriatrics
+Medicine: Gynaecology
+Medicine: Hematology
+Medicine: Hepatology
+Medicine: Implantology
+Medicine: Infectious Diseases
+Medicine: Internal Medicine (General Medicine)
+Medicine: International and Humanitarian Medicine
+Medicine: Medical Science Nursing
+Medicine: Medical Technology
+Medicine: Nephrology
+Medicine: Neurology
+Medicine: Neuroradiology
+Medicine: Neurosurgery
+Medicine: Nursing Science
+Medicine: Nutrition and Dietetics
+Medicine: Nutritional Biochemistry
+Medicine: Observation Medicine
+Medicine: Obstetrics
+Medicine: Oncology
+Medicine: Ophthalmology
+Medicine: Optometry
+Medicine: Oral and Maxillofacial Surgery
+Medicine: Orthodontics
+Medicine: Orthopedic Surgery
+Medicine: Otolaryngology
+Medicine: Pathology
+Medicine: Pediatrics
+Medicine: Pedodontics (Pediatric Dentistry)
+Medicine: Periodontics
+Medicine: Pharmacy
+Medicine: Physiotherapy
+Medicine: Plastic Surgery
+Medicine: Podiatry
+Medicine: Pre-hospital Care
+Medicine: Primary Care
+Medicine: Prosthodontics
+Medicine: Psychiatry
+Medicine: Psychosomatic Medicine
+Medicine: Public Health
+Medicine: Pulmonology
+Medicine: Radiology
+Medicine: Rehabilitation Medicine
+Medicine: Respiratory Medicine
+Medicine: Restorative Dentistry and Endodontics
+Medicine: Rheumatology
+Medicine: Sleep Medicine
+Medicine: Speech and Language Pathology
+Medicine: Sports Medicine
+Medicine: Surgery
+Medicine: Tactical Emergency Medicine
+Medicine: Toxicology
+Medicine: Transfusion Medicine
+Medicine: Traumatology
+Medicine: Urology
+Medicine: Veterinary Medicine
+Philosophy: Aesthetics
+Philosophy: Applied Philosophy
+Philosophy: Epistemology
+Philosophy: Ethics
+Philosophy: Logic
+Philosophy: Metaphysics
+Philosophy: Philosophy of Science
+Philosophy: Social and Political Philosophy
+Physics: Accelerator Physics
+Physics: Acoustics
+Physics: Atomic, Molecular and Optical Physics
+Physics: Biophysics
+Physics: Computational Physics
+Physics: Condensed Matter Physics
+Physics: Cosmology
+Physics: Cryogenics
+Physics: Electromagnetism
+Physics: Elementary Particle Physics
+Physics: Experimental Physics
+Physics: Fluid Dynamics
+Physics: Geophysics
+Physics: Materials Physics
+Physics: Materials Science
+Physics: Mathematical Physics
+Physics: Mechanics
+Physics: Medical Physics
+Physics: Molecular Physics
+Physics: Newtonian Dynamics
+Physics: Nuclear Physics
+Physics: Optics
+Physics: Plasma Physics
+Physics: Quantum Physics
+Physics: Solid State Physics
+Physics: Theoretical Physics
+Physics: Thermodynamics
+Physics: Vehicle Dynamics
+Political Science: Comparative Democratization
+Political Science: Comparative Politics
+Political Science: Conflict Processes
+Political Science: Elections, Public Opinion and Voting Behavior
+Political Science: Federalism and Intergovernmental Relations
+Political Science: Foreign Policy
+Political Science: Foundations of Political Theory
+Political Science: Health Politics and Policy
+Political Science: Human Rights
+Political Science: Information Technology and Politics
+Political Science: International History and Politics
+Political Science: International Relations
+Political Science: International Security and Arms Control
+Political Science: Law and Courts
+Political Science: Legislative Studies
+Political Science: National Politics
+Political Science: Political Communication
+Political Science: Political Economy
+Political Science: Political Methodology
+Political Science: Political Networks
+Political Science: Political Organizations and Parties
+Political Science: Political Psychology
+Political Science: Political Science Education
+Political Science: Political Theory
+Political Science: Politics and History
+Political Science: Politics, Literature and Film
+Political Science: Presidency Research
+Political Science: Public Administration
+Political Science: Public Policy
+Political Science: Qualitative and Multi-method Research
+Political Science: Race, Ethnicity and Politics
+Political Science: Representation and Electoral Systems
+Political Science: Science, Technology and Environmental Politics
+Political Science: State Politics and Policy
+Political Science: Urban Politics
+Political Science: Women and Politics Research
+Psychology: Abnormal Psychology
+Psychology: Applied Psychology
+Psychology: Behavioural Science
+Psychology: Biological Psychology
+Psychology: Clinical Psychology
+Psychology: Cognitive Psychology
+Psychology: Cognitive Science
+Psychology: Community Psychology
+Psychology: Developmental Psychology
+Psychology: Differential Psychology
+Psychology: Educational Psychology
+Psychology: Emotion
+Psychology: Evolutionary Psychology
+Psychology: Experimental Psychology
+Psychology: Forensic Psychology
+Psychology: Health Psychology
+Psychology: Intrapersonal Communications
+Psychology: Legal Psychology (Psychology and Law)
+Psychology: Media Psychology
+Psychology: Neuropsychology
+Psychology: Organizational Psychology
+Psychology: Personality Psychology
+Psychology: Positive Psychology
+Psychology: Psychoanalysis
+Psychology: Psychometrics
+Psychology: Psychophysics
+Psychology: Quantitative Psychology
+Psychology: Social Psychology
+Psychology: Sport Psychology
+Religious Studies: Abrahamic Religions
+Religious Studies: Atheism and Humanism
+Religious Studies: Comparative Religion
+Religious Studies: Indian Religions
+Religious Studies: Mythology and Folklore
+Religious Studies: Other Religions
+Religious Studies: Taoic Religions
+Social Science: Communication and Media
+Social Science: Qualitative Social Research
+Social Science: Quantitative Social Research
+Social Science: Social Policy
+Social Science: Social Stratification
+Social Science: Social Theory
+Social Science: Sociobiology
+Social Science: Sociocybernetics
+Social Science: Sociological Theory
+Social Science: Urban/Rural Sociology
+Social Science: Visual Sociology
+Space Science: Astrobiology
+Space Science: Astronomy
+Space Science: Astrophysics
+Space Science: Observational Astronomy

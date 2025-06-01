@@ -1,0 +1,15 @@
+
+      graph {
+         graph [rankdir=LR];
+         node [label="\N",
+             shape=plaintext
+         ];
+         edge [color=gray50,
+             minlen=2,
+             style=dashed
+         ];
+      
+"alembic_version" [label=<<FONT FACE="Helvetica"><TABLE BORDER="0" CELLBORDER="1" CELLPADDING="4" CELLSPACING="0"><TR><TD><B><FONT POINT-SIZE="16">alembic_version</FONT></B></TD></TR><TR><TD ALIGN="LEFT" PORT="version_num"><u><FONT>version_num</FONT></u> <FONT> [VARCHAR(32)]</FONT> NOT NULL</TD></TR></TABLE></FONT>>];
+"users" [label=<<FONT FACE="Helvetica"><TABLE BORDER="0" CELLBORDER="1" CELLPADDING="4" CELLSPACING="0"><TR><TD><B><FONT POINT-SIZE="16">users</FONT></B></TD></TR><TR><TD ALIGN="LEFT" PORT="id"><u><FONT>id</FONT></u> <FONT> [UUID]</FONT> NOT NULL</TD></TR><TR><TD ALIGN="LEFT" PORT="email"><FONT>email</FONT> <FONT> [VARCHAR(100)]</FONT> NOT NULL</TD></TR><TR><TD ALIGN="LEFT" PORT="first_name"><FONT>first_name</FONT> <FONT> [VARCHAR(70)]</FONT> NOT NULL</TD></TR><TR><TD ALIGN="LEFT" PORT="hash_password"><FONT>hash_password</FONT> <FONT> [VARCHAR(40)]</FONT> NOT NULL</TD></TR><TR><TD ALIGN="LEFT" PORT="last_name"><FONT>last_name</FONT> <FONT> [VARCHAR(70)]</FONT> NOT NULL</TD></TR><TR><TD ALIGN="LEFT" PORT="role"><FONT>role</FONT> <FONT> [VARCHAR(50)]</FONT> NOT NULL</TD></TR></TABLE></FONT>>];
+
+}
