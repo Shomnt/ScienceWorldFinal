@@ -1,0 +1,58 @@
+.createthread-form {
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 20px 25px;
+  background-color: #f9f9f9;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.createthread-title {
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+  color: #222;
+  text-align: center;
+}
+
+.createthread-input,
+.createthread-textarea {
+  width: 100%;
+  padding: 10px 12px;
+  font-size: 1rem;
+  border: 1.5px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+  transition: border-color 0.3s ease;
+}
+
+.createthread-input:focus,
+.createthread-textarea:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+.createthread-textarea {
+  min-height: 100px;
+}
+
+.createthread-button {
+  align-self: center;
+  background-color: #007bff;
+  color: white;
+  padding: 10px 25px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.createthread-button:hover,
+.createthread-button:focus {
+  background-color: #0056b3;
+  outline: none;
+}

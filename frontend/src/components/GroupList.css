@@ -1,0 +1,41 @@
+.grouplist-container {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 20px 25px;
+  font-family: Arial, sans-serif;
+  background-color: #fdfdfd;
+  border-radius: 6px;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.1);
+}
+
+.grouplist-title {
+  font-size: 2rem;
+  margin-bottom: 25px;
+  color: #222;
+  text-align: center;
+}
+
+.grouplist-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.grouplist-item {
+  margin-bottom: 15px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.grouplist-link {
+  font-size: 1.2rem;
+  color: #007bff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.grouplist-link:hover,
+.grouplist-link:focus {
+  color: #0056b3;
+  text-decoration: underline;
+}

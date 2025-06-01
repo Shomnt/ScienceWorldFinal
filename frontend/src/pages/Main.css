@@ -1,0 +1,92 @@
+/* Main.css */
+
+.main-container {
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 0 15px;
+  font-family: Arial, sans-serif;
+}
+
+.main-title {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+/* Контейнер для фильтров */
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-bottom: 25px;
+  justify-content: center;
+}
+
+/* Общий стиль для input и select */
+.search-input,
+.area-select,
+.sort-select {
+  padding: 10px 15px;
+  font-size: 1rem;
+  border: 1.5px solid #ccc;
+  border-radius: 5px;
+  min-width: 200px;
+  transition: border-color 0.3s ease;
+}
+
+.search-input:focus,
+.area-select:focus,
+.sort-select:focus {
+  outline: none;
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0,123,255,0.5);
+}
+
+/* Стили для списка статей */
+.article-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.article-item {
+  border-bottom: 1px solid #ddd;
+  padding: 15px 0;
+  transition: background-color 0.2s ease;
+}
+
+.article-item:hover {
+  background-color: #f9f9f9;
+}
+
+.article-title {
+  margin: 0 0 8px 0;
+  font-size: 1.5rem;
+  color: #007bff;
+}
+
+.article-link {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.3s ease;
+}
+
+.article-link:hover {
+  color: #0056b3;
+}
+
+.article-description {
+  color: #555;
+  font-size: 1rem;
+  margin: 0;
+}
+
+/* Сообщения загрузки и пустого списка */
+.loading-message,
+.empty-message {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #777;
+  margin-top: 50px;
+}
